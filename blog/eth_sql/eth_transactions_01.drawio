@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T03:17:07.710Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" version="17.4.0" etag="XjcYEEazlKMiBu9OZK7T" type="github"><diagram id="z2Ly6w6CMOxC7dGhE5Mv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-03T23:29:30.345Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="RGUSucz7YOfgDC9TKxBB" version="17.4.0" type="github">
+  <diagram id="z2Ly6w6CMOxC7dGhE5Mv" name="Page-1">
+    <mxGraphModel dx="1426" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Tx1XbhZvnS2E5SvQ_xt0-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Tx1XbhZvnS2E5SvQ_xt0-6" value="&lt;span&gt;Account A : 10 ETH&lt;/span&gt;&lt;br&gt;&lt;span&gt;Account B : 5 ETH&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tx1XbhZvnS2E5SvQ_xt0-8" value="&lt;span&gt;Smart Contract NFT CAT&lt;br&gt;&amp;nbsp; Owner&amp;nbsp; &amp;nbsp;: Account G&lt;br&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;Balance : 100 ETH&lt;br&gt;&lt;br&gt;&lt;span&gt;CAT Token 1 : Owned by Account C&lt;/span&gt;&lt;br&gt;&lt;span&gt;CAT Token 2 : Owned by Account D&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Tx1XbhZvnS2E5SvQ_xt0-9" value="State at time t" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tx1XbhZvnS2E5SvQ_xt0-10" value=".&lt;br&gt;.&lt;br&gt;." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Tx1XbhZvnS2E5SvQ_xt0-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="490" y="35" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Tx1XbhZvnS2E5SvQ_xt0-13" value="&lt;span&gt;Account A : 10 ETH&lt;/span&gt;&lt;br&gt;&lt;span&gt;Account B : 5 ETH&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="490" y="35" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tx1XbhZvnS2E5SvQ_xt0-14" value="&lt;span&gt;Smart Contract NFT CAT&lt;br&gt;&amp;nbsp; Owner&amp;nbsp; &amp;nbsp;: Account G&lt;br&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;Balance : 100 ETH&lt;br&gt;&lt;br&gt;&lt;span&gt;CAT Token 1 : Owned by Account C&lt;/span&gt;&lt;br&gt;&lt;span&gt;CAT Token 2 : Owned by Account D&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="490" y="95" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Tx1XbhZvnS2E5SvQ_xt0-15" value="State at time t+1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tx1XbhZvnS2E5SvQ_xt0-16" value=".&lt;br&gt;.&lt;br&gt;." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="490" y="315" width="270" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Tx1XbhZvnS2E5SvQ_xt0-17" value="&lt;span&gt;Smart Contract NFT DOG&lt;br&gt;&amp;nbsp; Owner&amp;nbsp; &amp;nbsp;: Account F&lt;br&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;Balance : 0 ETH&lt;br&gt;&lt;br&gt;Tokens : None" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Fira Code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2BCode;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="490" y="205" width="270" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
